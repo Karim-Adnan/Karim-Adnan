@@ -4,10 +4,6 @@
 
 I am a 3rd Year student pursuing B.Tech from Dr. Abdul Kalam Technical University, Lucknow. I love designing apps and making projects all the time
 
-## Find me around the web 🌎
-- Learning in public on <a href="https://www.twitch.tv/kaif_it_is" target="_blank">Twitch</a> or <a href="https://dev.to/adnan_karim" target="_blank">dev.to/kaif_it_is</a> 🎦 ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/adnan-karim-5ab270194/ ">LinkedIn</a> 💼
-
 ## Current situation ✨
 
 - 🔭 I’m currently working on Flutter projects! 
@@ -19,6 +15,10 @@ I am a 3rd Year student pursuing B.Tech from Dr. Abdul Kalam Technical Universit
 - e-mail: kaif.adnan05@gmail.com
 - instagram: adnan.karim05
 - twitter: adnankarim14
+
+## Find me around the web 🌎
+- Learning in public on <a href="https://www.twitch.tv/kaif_it_is" target="_blank">Twitch</a> or <a href="https://dev.to/adnan_karim" target="_blank">dev.to/kaif_it_is</a> 🎦 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/adnan-karim-5ab270194/ ">LinkedIn</a> 💼
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Karim-Adnan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/adnan_karim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adnan-karim-5ab270194//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AdnanKarim14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC1Vpqwuary7KQb-cXqatg5g?view_as=subscriber)  
 
