@@ -12,9 +12,9 @@ I am a 3rd Year student pursuing B.Tech from Dr. Abdul Kalam Technical Universit
 - ⚡ Fun fact: Android, Inc. initially intended to build software for cameras! 
 
 ## How to reach me 📫
-- e-mail: kaif.adnan05@gmail.com
-- instagram: adnan.karim05
-- twitter: adnankarim14
+- E-Mail: kaif.adnan05@gmail.com
+- Instagram: adnan.karim05
+- Twitter: adnankarim14
 
 ## Find me around the web 🌎
 
