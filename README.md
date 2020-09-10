@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Adnan
+### Hi there<div class="tenor-gif-embed" data-postid="13903117" data-share-method="host" data-width="100%" data-aspect-ratio="2.0"><a href="https://tenor.com/view/star-wars-hello-there-hello-obi-wan-kenobi-gif-13903117">Star Wars Hello There GIF</a> from <a href="https://tenor.com/search/starwars-gifs">Starwars GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> 👋, my name is Adnan
 #### I am an Android Developer!
 ![I am an Android Developer!](https://github.com/Karim-Adnan/Karim-Adnan/blob/master/Github%20Banner.png)
 
