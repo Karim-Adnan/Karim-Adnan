@@ -1,6 +1,6 @@
 ### ![Hello](https://github.com/Karim-Adnan/Karim-Adnan/blob/master/obi.gif) 👋, my name is Adnan
 #### I am an Android Developer!
-![I am an Android Developer!](https://github.com/Karim-Adnan/Karim-Adnan/blob/master/Github%20Banner.png)
+![I am a Flutter Developer!](https://github.com/Karim-Adnan/Karim-Adnan/blob/master/Github%20Banner.png)
 
 I am a 3rd Year student pursuing B.Tech from Dr. Abdul Kalam Technical University, Lucknow. I love designing apps and making projects all the time
 
