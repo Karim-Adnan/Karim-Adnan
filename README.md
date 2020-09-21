@@ -1,5 +1,5 @@
 ### ![Hello](https://github.com/Karim-Adnan/Karim-Adnan/blob/master/obi.gif)
-## 👋, my name is Adnan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, my name is Adnan
 #### I am an App Developer!
 ![I am a Flutter Developer!](https://github.com/Karim-Adnan/Karim-Adnan/blob/master/Github%20Banner.png)
 
