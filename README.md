@@ -5,7 +5,7 @@
 
 With a proven track record in mobile app development and leadership, I specialize in crafting innovative solutions using Flutter, Dart, Firebase services, Git, REST API integration, HTML, CSS, and JavaScript.
 
-I've spearheaded the development of two standout apps within my organization, one of which boasts over 3,000 active users, showcasing my ability to deliver impactful results. What sets me apart is my unwavering commitment to excellence and my proactive approach to problem-solving.
+I've spearhead the development of two standout apps within my organization, one of which boasts over 3,000 active users, showcasing my ability to deliver impactful results. What sets me apart is my unwavering commitment to excellence and my proactive approach to problem-solving.
 
 Driven by a passion for innovation, I thrive on continuous learning and am always seeking opportunities to push boundaries and explore new technologies.
 
